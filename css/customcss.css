@@ -1,0 +1,32 @@
+h1{
+    color:whitesmoke
+}
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding:20px;
+}
+body.scratch{
+    background-color: papayawhip;
+    font-family:cursive;
+    text-align: left;
+    border: 2px solid black;
+    padding: 15px;
+}
+a.scratch{
+    text-decoration: underline;
+    color:darkcyan;
+}
+.scratch{
+    position: left;
+    height: 100vh;
+}
+iframe.scratch{
+    position:left;
+    border-color: snow;
+    border-width: 10px;
+}
+.post-preview{
+    text-align: center;
+}
+
